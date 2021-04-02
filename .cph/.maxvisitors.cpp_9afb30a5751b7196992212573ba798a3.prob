@@ -1,0 +1,1 @@
+{"name":"Local: maxvisitors","url":"d:\\cppPrograms\\maxvisitors.cpp","tests":[{"id":1613196274607,"input":"5\n1 2 3 0 1 ","output":""},{"id":1613196737041,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppPrograms\\maxvisitors.cpp","group":"local","local":true}

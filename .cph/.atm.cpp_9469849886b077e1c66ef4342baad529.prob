@@ -1,0 +1,1 @@
+{"name":"Local: atm","url":"d:\\cppPrograms\\atm.cpp","tests":[{"id":1613730239198,"input":"120 30.00","output":""},{"id":1613734543306,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppPrograms\\atm.cpp","group":"local","local":true}

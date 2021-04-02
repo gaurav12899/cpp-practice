@@ -1,0 +1,1 @@
+{"name":"Local: rotation","url":"d:\\cppPrograms\\rotation.cpp","tests":[{"id":1617122545897,"input":"1\n9 4\n12924 7637 2062 5624 2600 12036 13452 8282 13258","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppPrograms\\rotation.cpp","group":"local","local":true}

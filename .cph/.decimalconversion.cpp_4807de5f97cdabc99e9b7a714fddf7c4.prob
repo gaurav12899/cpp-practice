@@ -1,0 +1,1 @@
+{"name":"Local: decimalconversion","url":"d:\\cppPrograms\\decimalconversion.cpp","tests":[{"id":1612849010822,"input":"1010 1010\n","output":""},{"id":1612858234705,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppPrograms\\decimalconversion.cpp","group":"local","local":true}
