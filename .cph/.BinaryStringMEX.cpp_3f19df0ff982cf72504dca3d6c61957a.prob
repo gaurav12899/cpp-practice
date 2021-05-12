@@ -1,0 +1,1 @@
+{"name":"Local: BinaryStringMEX","url":"d:\\cppPrograms\\BinaryStringMEX.cpp","tests":[{"id":1617606857992,"input":"1\n","output":""},{"id":1617609174541,"input":"1","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppPrograms\\BinaryStringMEX.cpp","group":"local","local":true}

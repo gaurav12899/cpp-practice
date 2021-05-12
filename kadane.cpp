@@ -15,9 +15,9 @@ int main(){
        if(currentSum<=0){
            currentSum=0;
        }
+
        maxSum=max(currentSum,maxSum);
    }
-
     cout<<maxSum;
     return 0;
 }

@@ -1,15 +1,9 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
-class A{
-public:
-    int x=10;
-};
 int main(){
-    A obj;
-    cout<<obj.x;
+while(true){
+    cout<<"hello";
+}
 return 0;
 }
-
-
